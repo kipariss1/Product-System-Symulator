@@ -13,6 +13,11 @@ try:
 except:                                     # execute the try part only if exception is true
     DEBUG = True
 
+print('Program System Symulator  Copyright (C) 2020  Kirill Rassudikhin \n
+    This program comes with ABSOLUTELY NO WARRANTY \n
+    This is free software, and you are welcome to redistribute it \n
+    under certain conditions;')
+
 
 # RPi implementation HERE:
 def simulation_part(lock, payload):
