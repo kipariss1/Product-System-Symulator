@@ -10,3 +10,5 @@ You should download monostable_graph_rpi.py and konfiguration.txt in same reposi
 Testing the simulation:
 
 However you can test simulation on RPi, without UniPi extension board or PLC and you can even test in it on PC. There is built-in simulation of states of pins on RPi for testing on PC. So you can just run the simulation of pneumatic cylinder with visualisation and graph of the piston position without attaching any peripheral devices to your RPi or even on PC. 
+
+In the repository you can find peumatic scheme of simulated system (scheme_of_monostable_task_2.png), sequential block scheme of technological process (block_scheme_mono.png), scheme of the tehcnological process (mono.png) and electrical circuit scheme of connection of the hardware for running the simulation (circuit_mono_sim.png).
