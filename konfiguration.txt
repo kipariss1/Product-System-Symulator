@@ -1,0 +1,8 @@
+diameter = 20 [mm]
+pressure = 1 [bar]
+friction coefficient = 0.15 [-]
+mounting angle of the cylinder = 0 [st.]
+moving mass = 128 [kg]  
+theoretical Force of the cylinder = 188.5 [N]
+senzor width area = 0.005 [m]
+stroke = 100 [mm] 
